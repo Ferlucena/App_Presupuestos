@@ -33,7 +33,7 @@
             </div>
         </div>
     </div>
-    <!--CONTENEDOR LISTADO DE INGRESOS DINAMICO onsubmit false desactiva el envio de datos al servidor -->
+    <!--CONTENEDOR DE INGRESOS DINAMICO onsubmit false desactiva el envio de datos al servidor -->
     <form id="forma" onsubmit="return false;">
         <div class="agregar">
             <div class="agregar_contenedor">
@@ -42,8 +42,10 @@
                     <option value="egreso">-</option>
                 </select>
                 <!--CAJA CONTENEDORA, step=any indica que acepta decimales-->
-                <input type="text" class="agregar_descripcion" placeholder="Agregar Descripción" id="descripcion"/>
-                <input type="number" placeholder="Valor" class="agregar_valor" id="valor" step="any"/>
+                <input type="text" class="agregar_descripcion" 
+                placeholder="Agregar Descripción" id="descripcion"/>
+                <input type="number" placeholder="Valor" 
+                class="agregar_valor" id="valor" step="any"/>
                 <!--BOTON DE ENVÍO-->
                 <button class="agregar_btn" onclick="agregarDato()">
                     <ion-icon name="checkmark-circle-outline"></ion-icon>
