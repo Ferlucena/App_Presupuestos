@@ -9,7 +9,7 @@ En tu máquina local podrás trabajar con este archivo con cualquier editor y se
 
 ### Pre-requisitos 📋
 
-Deberás instalar algun editor de código, te recomiendo VSCode con sus plugins
+Deberás instalar algun editor de código, te recomiendo VSCode con sus plugins.
 
 ## Ejecutando las pruebas ⚙️
 
@@ -17,7 +17,7 @@ Son tan sencillas y simples como ir cargando el formulario.
 
 ## Construido con 🛠️
 
-* [VSCode] (https://code.visualstudio.com/download)
+* [VSCode] (https://code.visualstudio.com/download).
 _Extensiones que utilizo para una mejor codificación 😉_
 * Quokka
 * Bracket Pair Colorizer 2
