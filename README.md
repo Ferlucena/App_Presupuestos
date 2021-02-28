@@ -42,10 +42,5 @@ Este proyecto puede ser utilizado con fines no comerciales.
 ## Expresiones de Gratitud 🎁
 
 * Gracias públicamente a 🤓.
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Andrés Villanueva** -[villanuevand](https://github.com/villanuevand)
 * Por poner a disposicion el formato de README
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
