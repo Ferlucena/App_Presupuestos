@@ -17,8 +17,10 @@ Son tan sencillas y simples como ir cargando el formulario.
 
 ## Construido con 🛠️
 
-* [VSCode] (https://code.visualstudio.com/download).
-_Extensiones que utilizo para una mejor codificación 😉_
+* [VSCode] (https://code.visualstudio.com/download)
+ 
+Extensiones que utilizo para una mejor codificación 😉
+
 * Quokka
 * Bracket Pair Colorizer 2
 * Angular by Papa
@@ -35,7 +37,7 @@ _Extensiones que utilizo para una mejor codificación 😉_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto puede ser utilizado con fines no comerciales.
 
 ## Expresiones de Gratitud 🎁
 
