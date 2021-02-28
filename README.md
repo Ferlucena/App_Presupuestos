@@ -18,16 +18,16 @@ Son tan sencillas y simples como ir cargando el formulario.
 ## Construido con 🛠️
 
 * [VSCode] (https://code.visualstudio.com/download)
-Extensiones que utilizo para una mejor codificación 😉
-Quokka
-Bracket Pair Colorizer 2
-Angular by Papa
-ES Lint
-Prettier
-Debugger for Chrome
-Better Comments
-Visual Studio IntelliCode
-Live Server
+_Extensiones que utilizo para una mejor codificación 😉_
+* Quokka
+* Bracket Pair Colorizer 2
+* Angular by Papa
+* ES Lint
+* Prettier
+* Debugger for Chrome
+* Better Comments
+* Visual Studio IntelliCode
+* Live Server
 
 ## Autores ✒️
 
