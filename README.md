@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Proyecto práctico de presupuestos
 
 Este es un proyecto donde pongo en práctica lo aprendido en JavaScrip, POO, HTML5 y CSS3.
 
